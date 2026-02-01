@@ -1,21 +1,57 @@
 MIT License
 
-Copyright (c) 2026 AliceRDE
+Copyright (c) 2026 Alice_RD
+═══════════════════════════════════════════════════════════════
+Definition
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+"Integration Pack" means the Minecraft Integration Pack containing this License and all configuration files, 
+scripts, custom content, quest designs, magic recipes, and other original content.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+"Components" means third-party content such as Minecraft modules, resource packs, lights and shadows included in the Integration Pack.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+"User" means any person who downloads, installs or uses the Integration Pack.
+═══════════════════════════════════════════════════════════════
+
+Rights Granted
+
+The following rights are granted to the user subject to the following conditions:
+
+1. Use 
+ permits the use of the Integration Pack in a personal, server or streaming context. 2.
+
+2. Distribution 
+ Allows non-commercial redistribution of the original files of this package, 
+ must maintain the integrity of the files and must not be modified. 3. Modification Allows modification of configuration files, adding or modifying files for personal use.
+
+3. Modification 
+ It is permitted to modify configuration files, add or remove modules for personal use, 
+ but the modified version must not be claimed to be the official version. 4.
+
+4. Content Creation 
+ Derivative content such as videos, live streams, screenshots, etc. is allowed. 
+ Sharing is encouraged but not required.
+
+═══════════════════════════════════════════════════════════════
+
+Conditions
+
+1. Non-commercial 
+ Direct sales of this Integration Pack or copies thereof are prohibited.
+   It is allowed to accept donations, bounties, or platform revenues related to content creation.
+
+2. Component Retention 
+ Each module retains its original license, and this license does not affect the component's statement of rights.
+
+3. Prohibited Behavior
+   - You may not claim that this pack is your original work.
+   - Do not use this pack to promote malware or illegal servers.
+
+═══════════════════════════════════════════════════════════════
+
+DISCLAIMER
+
+this pack is provided "as is" without warranty of any kind, either expressed or implied, including but not 
+limited to the warranties of merchantability and fitness for a particular purpose. The author is not responsible for corrupted game archives, performance issues 
+or compatibility issues with other modules. By using this pack, you understand the risks that may be associated with the 
+Minecraft module.
+
